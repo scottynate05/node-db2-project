@@ -11,9 +11,13 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "gitignore": "^0.6.0",
-    "shortid": "^2.2.15"
+    "helmet": "^3.23.3",
+    "knex": "^0.21.2",
+    "shortid": "^2.2.15",
+    "sqlite3": "^5.0.0"
   },
   "repository": {
     "type": "git",
